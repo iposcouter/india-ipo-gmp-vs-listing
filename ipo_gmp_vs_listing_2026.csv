@@ -1,0 +1,27 @@
+id,ipo_name,segment,exchange_sme,issue_price_inr,gmp_low_inr,gmp_high_inr,gmp_mid_inr,gmp_observed_date,gmp_implied_price_inr,listing_date,listing_open_inr,open_vs_issue_pct,open_vs_gmp_implied_pct,day1_close_inr,day1_close_vs_issue_pct,day1_close_source_note,gmp_direction_held,excluded_from_gmp_stats,notes
+1,HD Fire Protect,Mainboard,,271,80,80,80.0,2026-10-15,351.0,2026-10-21,335,23.62,-4.56,306.75,13.19,,Yes,no,GMP approximate
+2,Vaibhav Vyapaar,SME,NSE SME,54,2,2,2.0,2026-10-16,56.0,2026-10-21,52.9,-2.04,-5.54,,,,No,no,
+3,Fusion CX,Mainboard,,289,10,12,11.0,2026-10-17,300.0,2026-10-22,305,5.54,1.67,289.65,0.22,,Yes,no,
+4,Ravita Engineering Services,SME,NSE SME,112,2,2,2.0,2026-10-16,114.0,2026-10-22,112,0.0,-1.75,113.7,1.52,,No,no,
+5,Tonbo Imaging,Mainboard,,700,500,500,500.0,2026-10-16,1200.0,2026-10-23,1160,65.71,-3.33,1133.8,61.97,,Yes,no,
+6,Bonfiglioli Transmissions,Mainboard,,586,133,143,138.0,2026-10-16,724.0,2026-10-23,586,0.0,-19.06,574.5,-1.96,,No,no,
+7,Sahajanand Medical Technologies,Mainboard,,344,35,41,38.0,2026-10-16,382.0,2026-10-23,371.15,7.89,-2.84,377.65,9.78,,Yes,no,GMP taken during bidding; two trackers could not confirm a post-close GMP
+8,Zetwerk,Mainboard,,151,7,7,7.0,2026-10-16,158.0,2026-10-23,159.25,5.46,0.79,138.25,-8.44,,Yes,no,
+9,Shellz India,SME,BSE SME,179,0,0,0.0,2026-10-16,179.0,2026-10-23,179,0.0,0.0,170.05,-5.0,,Yes,no,
+10,Jio Platforms,Mainboard,,1119,240,240,240.0,2026-10-23,1359.0,2026-10-28,1358,21.36,-0.07,1419,26.81,reported (approx.),Yes,no,
+11,Paras Healthcare,Mainboard,,693,10,10,10.0,2026-10-23,703.0,2026-10-28,720,3.9,2.42,,,,Yes,no,
+12,Core4 Engineers,SME,BSE SME,93,0,0,0.0,2026-10-24,93.0,2026-10-30,74.4,-20.0,-20.0,,,,No,no,
+13,EAAA India Alternatives,Mainboard,,1665,,,,2026-10-28,,2026-11-02,1675.5,0.63,,1727.8,3.77,,,yes,EXCLUDED: conflicting GMP quotes (~10 to 65)
+14,BLS Polymers,Mainboard,,150,47,51,49.0,2026-11-03,199.0,2026-11-03,248,65.33,24.62,268.8,79.2,,Yes,no,GMP observed 29 Oct to 3 Nov
+15,SFC Environmental Technologies,Mainboard,,330,15,18,16.5,2026-11-02,346.5,2026-11-03,355.1,7.61,2.48,426.1,29.12,,Yes,no,
+16,Wiscon Industries,SME,BSE SME,204,0,0,0.0,2026-10-24,204.0,2026-11-03,204,0.0,0.0,203.55,-0.22,,Yes,no,
+17,M.K. Sons Fine Jewels,Mainboard,,162,10,12,11.0,2026-11-03,173.0,2026-11-04,171,5.56,-1.16,162.2,0.12,reported,Yes,no,
+18,Carver Roboweld,SME,BSE SME,80,0,0,0.0,2026-10-30,80.0,2026-11-04,90,12.5,12.5,94.5,18.12,BSE,No,no,
+19,Ajwa Projects,SME,BSE SME,203,2,5,3.5,2026-10-30,206.5,2026-11-04,203,0.0,-1.69,192.85,-5.0,BSE,No,no,
+20,Bombay Coated and Special Steels,Mainboard,,82,8.5,8.5,8.5,2026-11-04,90.5,2026-11-05,91,10.98,0.55,94.61,15.38,BSE,Yes,no,
+21,Maxwell Engineering Solutions,SME,NSE SME,158,100,105,102.5,2026-11-06,260.5,2026-11-06,300.2,90.0,15.24,,,,Yes,no,GMP observed 5 to 6 Nov
+22,HGS (India),SME,NSE SME,120,28,31,29.5,2026-11-06,149.5,2026-11-06,160,33.33,7.02,,,,Yes,no,GMP observed 5 to 6 Nov
+23,Johnsoncab Electricals,SME,BSE SME,200,5,8,6.5,2026-11-06,206.5,2026-11-06,238.5,19.25,15.5,,,,Yes,no,GMP observed 31 Oct to 6 Nov
+24,Vectras Enprocon,SME,BSE SME,105,0,0,0.0,2026-11-06,105.0,2026-11-06,106,0.95,0.95,,,,No,no,
+25,Vedant Poly Fabs,SME,NSE SME,94,1,2,1.5,2026-11-04,95.5,2026-11-09,94,0.0,-1.57,89.3,-5.0,,No,no,
+26,Antala Industries,SME,BSE SME,66,0,0,0.0,2026-11-09,66.0,2026-11-11,52.8,-20.0,-20.0,50.16,-24.0,,No,no,
